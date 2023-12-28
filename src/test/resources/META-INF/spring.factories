@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = br.al.gov.sefaz.\
+    sample.config.SqlTestContainersSpringContextCustomizerFactory
